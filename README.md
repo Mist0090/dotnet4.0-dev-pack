@@ -1,2 +1,5 @@
 # dotnet4.0-dev-pack
-自己責任でお願いします。
+実行は自己責任でお願いします。
+
+.net framework4.0 dev pack
+のインストーラ
